@@ -1,4 +1,5 @@
- .jedi-image-Kenobi {
+
+            .jedi-image-Kenobi {
               width: 100px;
               height: 100px;
             }
@@ -11,6 +12,14 @@
               height: 100px;
             }
             .sith-image-Dooku {
+                widows: 100px;
+                height: 100px;
+            }
+            .sith-image-Darth-Vader {
+                widows: 100px;
+                height: 100px;
+            }
+            .sith-image-Darth-Jar-Jar-Sith {
                 widows: 100px;
                 height: 100px;
             }
