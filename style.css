@@ -1,4 +1,3 @@
-
             .jedi-image-Kenobi {
               width: 100px;
               height: 100px;
@@ -26,3 +25,100 @@
             .h2 {
                 columns: black;
             }
+
+
+             body {
+    text-align: center;
+    padding-bottom: 3rem;
+  }
+  
+  .functionBox {
+    display: inline-block;
+    text-align: left;
+    width: 60%;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #4a4a4a;
+    font-family: 'Open Sans', sans-serif;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  
+  #JedisBox, #JedisFightStats {
+    width: 38%;
+    margin: 1rem;
+    padding: 1rem;
+    padding-left: 0;
+    float: left;
+  }
+  
+  #SithsBox, #SithsFightStats {
+    width: 38%;
+    padding: 1rem;
+    padding-right: 0;
+    margin: 1rem;
+    float: right;
+  }
+  
+  
+  
+  .buttonsBox {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .pure-button {
+    margin: 0 auto;
+    width: 40%;
+  }
+  
+  #resultsArea, #battleBox {
+    font-size: 0.8rem;
+    margin: 3rem;
+    padding: 2rem;
+    border: 1px solid grey;
+    text-align: left;
+    height: 25rem;
+  }
+  
+  #battleBox {
+    height: 20rem;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  #startFightButton {
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    clear: both;
+  }
+  
+  .listTitle {
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  .familiarDescription {
+    font-size: 1.1rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .JedisName {
+    color: blue;
+  }
+  
+  .SithsName {
+    color: red;
+  }
+  
+  #attackButton {
+    margin: 0 1rem;
+  }
