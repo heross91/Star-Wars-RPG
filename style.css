@@ -1,1 +1,19 @@
-
+ .jedi-image-Kenobi {
+              width: 100px;
+              height: 100px;
+            }
+            .jedi-image-Mace-Windu {
+              width: 100px;
+              height: 100px;
+            }
+            .jedi-image-Yoda {
+              width: 100px;
+              height: 100px;
+            }
+            .sith-image-Dooku {
+                widows: 100px;
+                height: 100px;
+            }
+            .h2 {
+                columns: black;
+            }
