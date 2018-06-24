@@ -29,4 +29,15 @@ var jedis = [
 
 });
 
+function reset() {
+    Selection();
+    option();
+}
+
+
+var option = document.createElement("Jedi");
+$("option").click(function(event) {
+userAnswer = event.target.id;
+});
+
 
