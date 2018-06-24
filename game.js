@@ -41,3 +41,26 @@ userAnswer = event.target.id;
 });
 
 
+function reset() {
+    Selection();
+    option();
+}
+
+
+var option = document.createElement("Jedi");
+$("option").click(function(event) {
+userAnswer = event.target.id;
+
+
+jedis.attack(function() {
+    return 1.5 - Math.attack();
+});
+
+
+siths.defense(function() {
+    return 1 - Math.defense();
+});
+
+});
+
+
